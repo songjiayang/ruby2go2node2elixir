@@ -1,0 +1,21 @@
+{
+  "name": "2ndoe",
+  "version": "0.0.1",
+  "description": "benchmark for node server",
+  "main": "index.js",
+  "dependencies": {
+    "koa": "^1.2.0",
+    "koa-router": "^5.4.0",
+    "mongoose": "^4.4.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "NODE_DEBUG=cluster node index.js"
+  },
+  "author": "songjiayang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/songjiayang/ruby2go2node2elixir/issues"
+  },
+  "homepage": "https://github.com/songjiayang/ruby2go2node2elixir#readme"
+}

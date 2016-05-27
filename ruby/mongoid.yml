@@ -1,0 +1,7 @@
+production:
+  clients:
+    default:
+      database: ruby2go2node2elixir
+      hosts:
+        - localhost:27017
+      max_pool_size: 20
